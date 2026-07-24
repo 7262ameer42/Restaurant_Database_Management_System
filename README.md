@@ -28,7 +28,7 @@ This project models the core operations of a single restaurant — from customer
 
 ## 🧩 ER Diagram
 
-See [`database/ER_Diagram.png`]()for the full entity-relationship diagram, and [`database/Database_Schema.pdf`]() for detailed schema documentation.
+See [`database/ER_Diagram.png`](https://github.com/7262ameer42/Restaurant_Database_Management_System/blob/main/Restaurant_Database_Management_System/ER%20Diagram.mwb)for the full entity-relationship diagram, and [`database/Database_Schema.pdf`](https://github.com/7262ameer42/Restaurant_Database_Management_System/blob/main/Restaurant_Database_Management_System/Restaurant%20Database%20Schema%20Documentation.pdf) for detailed schema documentation.
 
 ## 🛠️ Technologies
 
@@ -39,7 +39,7 @@ See [`database/ER_Diagram.png`]()for the full entity-relationship diagram, and [
 ## 🚀 How to Run
 
 1. 🖥️ Open MySQL Workbench.
-2. 📂 Open [`database/SingleRestaurantDB.sql`]().
+2. 📂 Open [`database/SingleRestaurantDB.sql`](https://github.com/7262ameer42/Restaurant_Database_Management_System/blob/main/Restaurant_Database_Management_System/Restaurant_Database_Management_System.sql).
 3. ▶️ Execute the script.
 4. ✅ The database, tables, and sample data will be created automatically.
 
@@ -51,7 +51,7 @@ See [`database/ER_Diagram.png`]()for the full entity-relationship diagram, and [
 
 ## 📸 Screenshots
 
-See the [`screenshots/`]() folder for table data and query outputs:
+See the [`screenshots/`](https://github.com/7262ameer42/Restaurant_Database_Management_System/tree/main/Restaurant_Database_Management_System/Screenshots) folder for table data and query outputs:
 
 - 🖼️ `Customers.png`
 - 🖼️ `Food_Menu.png`
@@ -62,7 +62,7 @@ See the [`screenshots/`]() folder for table data and query outputs:
 
 ## 📄 Project Report
 
-See [`docs/Project_Report.pdf`]() for full documentation.
+See [`docs/Project_Report.pdf`](https://github.com/7262ameer42/Restaurant_Database_Management_System/blob/main/Restaurant_Database_Management_System/Restaurant_DBMS_Project_Report.pdf) for full documentation.
 
 ## 👤 Author
 
@@ -70,4 +70,4 @@ See [`docs/Project_Report.pdf`]() for full documentation.
 
 ## 📜 License
 
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](https://github.com/7262ameer42/Restaurant_Database_Management_System/blob/main/Restaurant_Database_Management_System/LICENSE).
